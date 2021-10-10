@@ -1,4 +1,4 @@
-<h1 align="center"> Sistema Financeiro
+<h1 align="center"> EXPENSE-TRACKER
 </h1>
 
 <h1 align="center">
