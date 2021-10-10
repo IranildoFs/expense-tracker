@@ -16,13 +16,13 @@
 
 ## 💻 Sobre o projeto
 
-O Sistema Financeiro expense-tracker é um projeto desenvolvido durante a semana React da B7Web. Trata-se do Projeto 02, um organizador e calculadora de despesas e receitas, tento a possibilidade de filtragem por meses na apresentação das informações. O projeto em si foca no Typescript, uso de styled-components, dos hooks useState e useEffect, assim ficando fácil a tipagem, estilização e a passagem de parâmetros para os componentes e atualizações na tela principal.
+O Sistema Financeiro expense-tracker é um projeto desenvolvido durante a semana React da B7Web. Trata-se do Projeto 02, um organizador e calculadora de balanço com base nas despesas e receitas adicionadas, tendo a possibilidade de filtragem por meses na apresentação das informações. Em tecnologia de sua construção o projeto em si foca no uso do Typescript, styled-components, hooks useState e useEffect. Assim ficando fácil a tipagem, estilização, passagem de parâmetros para os componentes e atualizações na tela principal.
 
 ---
 
 ## 🎨 Layout
 
-### Telas do GoBarber
+### Telas do sistema financeiro expense-tracker
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
   <img alt="Tela inicial do sistema financeiro" title="#expense-tracker" src="./ImagensREADME/1.png" />
